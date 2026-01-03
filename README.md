@@ -1,3 +1,3 @@
 # atul
-this is my first repository
-author atul gurjar
+this is my first repository.
+author - atul gurjar.
